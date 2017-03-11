@@ -1,0 +1,10 @@
+body { font-family: 'Helvetica Neue'; }
+
+.reveal {	background: #546E7A; color: #fff; }
+
+.reveal .slides section h1 {
+	font-size: 48pt;
+	font-weight: bold;
+}
+
+.reveal .slides section h2 { font-size: 32pt; }
